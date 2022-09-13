@@ -11,9 +11,17 @@ npm create vite@latest
 >> Typescript
 npm install
 npm run dev
+npm install -D tailwindcss postcss autoprefixer vite
+npx tailwindcss init -p
+VS Code Extensions:
+Tailwind CSS IntelliSense
+PostCSS Language Support
+
 
 React Native:
 npx expo -h
 npx expo whoami
 npx expo register
 npx create-expo-app mobile
+npx expo start
+
