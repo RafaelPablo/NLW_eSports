@@ -1,0 +1,19 @@
+Node:
+npm init -y
+npm i typescript -D
+npx tsc --init
+npm i ts-node-dev
+npm run dev
+
+React:
+npm create vite@latest
+>> React
+>> Typescript
+npm install
+npm run dev
+
+React Native:
+npx expo -h
+npx expo whoami
+npx expo register
+npx create-expo-app mobile
